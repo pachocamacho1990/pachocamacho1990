@@ -16,6 +16,10 @@ I am passionate about collaborating with others to create innovative solutions t
 - 📫 How to reach me: use my Twitter handle ! @el_pachocamacho
 - ⚡ Fun fact: I love F1 and racing cars !! 
 
+## Lablab.ai Hackaton Space
+
+- [Solutions created with AI tools](https://lablab.ai/u/@pachocamacho)
+
 
 ## Blog and sharing spaces
 
