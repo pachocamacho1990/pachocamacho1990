@@ -24,5 +24,4 @@ I am passionate about collaborating with others to create innovative solutions t
 ## Blog and sharing spaces
 
 - [Academic space I opened some years ago for my students](https://www.youtube.com/channel/UCN_Se2c0PWb0He-f_BHc0Ww)
-- [Hunty Blog on Deepnote - Tech adventures](https://deepnote.com/@huntyjobs)
 
