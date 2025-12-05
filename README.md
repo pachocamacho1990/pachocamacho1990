@@ -3,11 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-myLinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/francisco-camacho-29b0b942/)](https://www.linkedin.com/in/francisco-camacho-29b0b942/)
 [![GitHub followers](https://img.shields.io/github/followers/yourusername.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pachocamacho1990/?tab=followers)
 
-I am a multidisciplinary scientist with a passion for research, teaching, and industry. My early career focused on numerical modeling in turbulent fluid dynamics, including plasma astrophysics, climatology, and aerodynamics. However, I decided to pivot towards the startup ecosystem and began taking on progressively higher risks, ultimately leading me to become a competitive data scientist.
+I’m a physicist turned AI engineering leader, with a background in computational astrophysics and fluid dynamics (complex abstract stuff !) and years of experience building large-scale NLP and autonomous systems for real-world impact.
 
-Over the past few years, I have developed and implemented solutions for various industry clients in the field of Natural Language Processing. Currently, I serve as the CTO at Hunty.com, a Colombian employability startup where we help job seekers find their dream roles.
+My work spans vector embedding-based solutions, conversational AI, agent-based automation, and integrations with enterprise platforms. I’m passionate about designing secure, explainable, and production-ready AI systems that move beyond chat to take meaningful action on behalf of users. 
 
-I am passionate about collaborating with others to create innovative solutions that have a significant impact on society. Let's connect and create something great together!
+I thrive at the intersection of research, engineering, and product strategy—simplifying complexity and turning cutting-edge models into scalable solutions that have real impact in industry problems.
 
 - 🔭 I’m currently working on new AI solutions for hunty !
 - 🌱 I’m currently learning how to build impactful businesses with the new technologies !
