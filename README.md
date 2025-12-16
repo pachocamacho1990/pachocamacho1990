@@ -5,6 +5,12 @@
 
 I’m a physicist turned AI engineering leader, with a background in computational astrophysics and fluid dynamics (complex abstract stuff !) and years of experience building large-scale NLP and autonomous systems for real-world impact.
 
+My journey began in the realm of computational astrophysics and fluid dynamics—wrestling with complex abstract systems and turning theoretical models into computational solutions. That foundation in physics taught me to think rigorously about complex problems, to question assumptions, and to build systems that can handle real-world chaos.
+
+My work sits at a fascinating intersection: helping organizations build AI systems that are not just powerful, but secure, explainable, and production-ready. I've seen too many impressive demos that fall apart in production—my focus is on building systems that actually work when they meet reality.
+
+### What Drives My Work
+
 My work spans vector embedding-based solutions, conversational AI, agent-based automation, and integrations with enterprise platforms. I’m passionate about designing secure, explainable, and production-ready AI systems that move beyond chat to take meaningful action on behalf of users. 
 
 I thrive at the intersection of research, engineering, and product strategy—simplifying complexity and turning cutting-edge models into scalable solutions that have real impact in industry problems.
