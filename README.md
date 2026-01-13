@@ -21,15 +21,13 @@ I thrive at the intersection of research, engineering, and product strategy—si
 
 ## 🔭 Current Focus
 
-- 🚀 Building new AI solutions for [Hunty](https://hunty.app)
-- - 🌱 Learning how to build impactful businesses with new technologies
-  - - 👯 Looking to collaborate on Theory and LLM developments
-    - - 💬 Ask me about Physics, Philosophy, Complex Math, The future of mankind and so
-      - - 📫 How to reach me: [@el_pachocamacho](https://x.com/el_pachocamacho)
-        - - ⚡ Fun fact: I love F1 and racing cars !!
+- 🚀 Building new AI solutions for [Hunty](https://hunty.com)
+- 🌱 Learning how to build impactful businesses with new technologies
+- 👯 Looking to collaborate on Theory and LLM developments
+- 💬 Working on Fundamental Quantum physics, Stochastic Electrodynamics, and QED focused on exploring how to harness quantum phenomena like the Cassimir effect to produce of transport energy at large scales.
+- 📫 How to reach me: [@el_pachocamacho](https://x.com/el_pachocamacho)
          
-          - ## 🔬 Research & Learning
+## 🔬 Research & Learning
          
-          - **Lablab.ai Hackaton Space:** [Solutions created with AI tools](https://lablab.ai/event/lablab-ai-hackaton-space)
-         
-          - **Blog and sharing spaces:** [Academic space](https://www.youtube.com/@franciscocamacho1990) I opened some years ago for my students
+- **Lablab.ai Hackaton Space:** [Solutions created with AI tools](https://lablab.ai/event/lablab-ai-hackaton-space)
+- **Blog and sharing spaces:** [Academic space](https://www.youtube.com/@franciscocamacho1990) I opened some years ago for my students
