@@ -11,7 +11,7 @@ My journey began in the realm of computational astrophysics and fluid dynamics�
 
 My work sits at a fascinating intersection: helping organizations build AI systems that are not just powerful, but **secure, explainable, and production-ready**. I've seen too many impressive demos that fall apart in production—my focus is on building systems that actually work when they meet reality.
 
-**Currently:** Co-Founder & CTO at [Hunty](https://hunty.app) - Scaled platform from MVP to ISO 27001-certified enterprise solution
+**Current:** Co-Founder at [Hunty](https://hunty.com) - Scaled platform from MVP to ISO 27001-certified enterprise solution
 
 ## What Drives My Work
 
@@ -21,10 +21,9 @@ I thrive at the intersection of research, engineering, and product strategy—si
 
 ## 🔭 Current Focus
 
-- 🚀 Building new AI solutions for [Hunty](https://hunty.com)
 - 🌱 Learning how to build impactful businesses with new technologies
 - 👯 Looking to collaborate on Theory and LLM developments
-- 💬 Working on Fundamental Quantum physics, Stochastic Electrodynamics, and QED focused on exploring how to harness quantum phenomena like the Cassimir effect to produce of transport energy at large scales.
+- 💬 Working on Fundamental Quantum physics, Stochastic Electrodynamics, and QED focused on exploring how to harness quantum phenomena like the Cassimir effect to produce or transport energy at large scales.
 - 📫 How to reach me: [@el_pachocamacho](https://x.com/el_pachocamacho)
          
 ## 🔬 Research & Learning
