@@ -1,69 +1,158 @@
-# Hi there visitor, I'm Francisco 👋
+# Hi there, I'm Francisco 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-myLinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/francisco-camacho-29b0b942/)](https://www.linkedin.com/in/francisco-camacho-29b0b942/)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pachocamacho1990/?tab=followers)
+<div align="center">
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-camacho-29b0b942/)
+[![GitHub followers](https://img.shields.io/github/followers/pachocamacho1990?style=for-the-badge&logo=github)](https://github.com/pachocamacho1990?tab=followers)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pachocamacho1990)
+
+</div>
 
 ## 🚀 About Me
 
-My journey began in the realm of computational astrophysics and fluid dynamics, wrestling with complex abstract systems and turning theoretical models into computational solutions. That foundation in physics taught me to think rigorously about complex problems, to question assumptions, and to build systems that can handle real-world chaos. My work sits at a particular intersection: helping organizations build AI systems that are not just powerful, but secure, explainable, and production-ready. I've seen too many impressive demos that fall apart in production, my focus is on building systems that actually work when they meet reality.
+I'm a **physicist turned AI engineering leader** with 7+ years of experience building **production-grade AI systems** at scale. My journey spans from computational astrophysics and fluid dynamics to enterprise AI architecture.
 
-## What Drives My Work
-The transition from physics to AI engineering wasn't about abandoning scientific rigor, it was about applying it to a new domain. In astrophysics, you learn that the universe doesn't care about your elegant theories; the data tells you what's real. The same principle applies to AI systems: they need to perform reliably under real-world conditions, handle edge cases gracefully, and fail safely when they encounter the unexpected.
+**Currently:** Co-Founder & CTO at [Hunty](https://hunty.app), where I've scaled the platform from MVP to ISO 27001-certified enterprise solution serving major LATAM companies.
 
-### On the ML/AI/software technical side, I specialize in:
+**Expertise:**
+- 🤖 **Large Language Models & Vector Embeddings** - Building systems beyond chatbots for meaningful action
+- - 🔐 **Security-First AI Architecture** - Designing secure, explainable, production-ready systems from the ground up
+  - - 🏗️ **Enterprise Integration** - Connecting AI with existing platforms, APIs, and infrastructure at scale
+    - - 📊 **Data Infrastructure** - Corporate data warehouses, ETL pipelines, and monitoring systems
+      - - 🎯 **AI Agents & Automation** - Conversational AI, autonomous workflows, and complex task execution
+       
+        - ---
 
-Vector embeddings and Large Language Models: Building systems that go beyond simple chatbots to take meaningful action on behalf of users
-Conversational AI & Agent Systems: Creating autonomous systems that can reason, plan, and execute complex workflows
-Security-First Architecture: Designing AI systems with security baked in from the ground up, not bolted on as an afterthought
-Enterprise Integration: Connecting AI capabilities with existing platforms, APIs, and infrastructure at scale
+        ## 💼 Professional Experience
 
-### My Approach
-I thrive at the intersection of research, engineering, and product strategy. I don't just want to build things, I want to understand why they work, how they can scale, and what impact they'll have. I'm drawn to projects that require simplifying complexity, turning cutting-edge models into practical solutions, and solving real problems that matter to people.
+        ### Co-Founder & CTO | **Hunty** (2021 - Nov 2025)
+        *Bogotá, Colombia | Hybrid*
 
-## 🔬 Future Research & Projects
-Beyond my past/current work, I'm passionate about pushing boundaries in several frontier areas:
-### Physics & Fundamental Theory
+        Led Hunty's evolution from no-code MVP to enterprise platform serving major LATAM companies.
 
-* Exploring connections between LLM architectures and physical systems
-* Investigating information theory, complexity, and emergent behavior in AI systems
-* Bridging computational models with theoretical physics frameworks
+        **Key Achievements:**
+        - 🏢 **Product Transformation**: Migrated from no-code to proprietary web application with NLP-based recommendation algorithms
+        - - 🤖 **AI Core Development**: Built **ANA**, our conversational AI system managing thousands of concurrent candidate interactions
+          - - 📈 **Data Ecosystem**: Designed corporate data warehouse with custom ETL pipelines for scalable analytics
+            - - 🔒 **Security & Compliance**: Achieved ISO 27001 certification with enterprise-grade information security framework
+              - - 🚀 **LLM Innovation**: Multi-model experimentation (OpenAI, Anthropic, Llama, Mistral) with intelligent routing
+                - - ☁️ **Cloud Scale**: Leveraged Google Cloud (Vertex AI, Document AI) for complex workflow automation
+                 
+                  - **Impact:** Processed 10B+ OpenAI tokens, recognized by Google as LATAM success case at Google Cloud Next '24
+                 
+                  - ### Data Scientist & Team Lead | **Platzi** (2019 - 2021)
+                  - *Bogotá, Colombia*
+                 
+                  - Architected AI features and led data engineering strategy for Latin America's largest EdTech platform (2M+ users).
+                 
+                  - - 🎯 **Instant Answers**: Built first AI-based feature solving massive unanswered question backlog
+                    - - 📊 **Sentiment Analytics**: Developed ML-based sentiment scoring for course improvement
+                      - - 🏗️ **Search Engine**: Introduced semantic search leveraging embeddings for efficient, flexible retrieval
+                       
+                        - ### Co-Founder & Tech Lead | **Scient** (2020 - 2021)
+                        - *Bogotá, Colombia*
+                       
+                        - Robotics automation and ML-based consultancy enabling enterprise optimization through RPA and custom solutions.
+                       
+                        - ### Adjunct Professor | **Politécnico Grancolombiano** (2017 - 2019)
+                        - - Taught: Physics (Mechanics, Electromagnetics, Thermodynamics), Calculus, Numerical Methods with Python
+                         
+                          - ---
 
-### Energy & Sustainability
+                          ## 🎓 Education
 
-*  Renewable energy optimization and grid management
-* Computational modeling of energy systems
-* Intersection of physics, AI, and sustainable technology solutions
+                          **Master in Physics** - Universidade Federal de Minas Gerais (2014-2017)
+                          - Research: Astrophysical turbulent plasmas, Solar physics, Magnetic field formation
+                         
+                          - **Bachelor of Science - Theoretical & Mathematical Physics** - Universidad Nacional de Colombia (2007-2012)
+                          - - Specialization: Computational physics, Fluid dynamics
+                           
+                            - **Certifications:**
+                            - - Google Cloud Professional Data Engineer (2019)
+                             
+                              - ---
 
-### Advanced AI Research
+                              ## 🛠️ Technical Skills
 
-* Novel approaches to LLM interpretability and alignment
-* Theory and mathematics underlying transformer architectures
-* Multi-agent systems and collective intelligence
+                              **Languages & Frameworks:** Python, SQL, JavaScript, Bash, Docker, Kubernetes
 
-I believe the next breakthroughs will come from interdisciplinary thinking—combining rigorous physics intuition with cutting-edge AI capabilities to solve real problems in energy, sustainability, and beyond.
+                              **AI/ML:** LLMs, Vector Embeddings, NLP, RAG Systems, Multi-Agent Architectures, PyTorch, TensorFlow, Scikit-learn
 
-## 🌱 What I'm Learning
+                              **Data & Infrastructure:** Apache Spark, BigQuery, PostgreSQL, Airflow, Data Warehousing, ETL/ELT Pipelines
 
-* Advanced threat modeling for AI systems
-* Scalable business models for consulting services
-* Real estate investment strategies in Colombia for building up solar panel farms.
+                              **Cloud Platforms:** Google Cloud (Vertex AI, BigQuery, Cloud Run), AWS (Bedrock, SageMaker), Azure
 
-## 🤝 Looking to Collaborate On
+                              **DevOps & Security:** CI/CD, Docker, Kubernetes, Information Security Standards (ISO 27001), DevSecOps
 
-* Theory & LLM Development: Mathematical foundations, novel architectures, and pushing the boundaries of what's possible with large language models
-* Physics-AI Intersection: Applying physics principles to AI systems, emergent behavior, complexity theory
-* Energy & Sustainability: AI applications for renewable energy, grid optimization, and climate tech
-* Security Research: Novel approaches to AI system security and adversarial robustness
-* Entrepreneurial Ventures: Building meaningful products that solve real problems at scale
-* Open Source: Tools that democratize AI, cybersecurity, and energy technologies
+                              **Soft Skills:** Engineering Management, Technical Leadership, Product Strategy, Cross-functional Collaboration
 
+                              ---
 
-## Lablab.ai Hackaton Space
+                              ## 🔬 Research & Publications
 
-- [Solutions created with AI tools](https://lablab.ai/u/@pachocamacho)
+                              **Published Papers:**
+                              - *"Dimensional analysis and Rutherford scattering"* - European Journal of Physics (2012)
+                              - - *"The Richardson's Annular effect and transient solution of oscillating pressure-driven flow in circular pipes"* - ResearchGate (2012)
+                               
+                                - **Interests:**
+                                - - Physics-AI intersection and emergent behavior in complex systems
+                                  - - LLM interpretability and alignment
+                                    - - Sustainable energy and grid optimization
+                                      - - Theory and mathematics underlying transformer architectures
+                                       
+                                        - ---
 
+                                        ## 🤝 Looking to Collaborate On
 
-## Blog and sharing spaces
+                                        - **Theory & LLM Development** - Novel architectures, mathematical foundations
+                                        - - **Physics-AI Intersection** - Applying physics principles to AI systems
+                                          - - **Energy & Sustainability** - AI for renewable energy and grid optimization
+                                            - - **Security Research** - Novel approaches to AI system security
+                                              - - **Entrepreneurial Ventures** - Building meaningful products at scale
+                                                - - **Open Source** - Tools democratizing AI, cybersecurity, and energy tech
+                                                 
+                                                  - ---
 
-- [Academic space I opened some years ago for my students](https://www.youtube.com/channel/UCN_Se2c0PWb0He-f_BHc0Ww)
+                                                  ## 📊 Key Accomplishments
 
+                                                  ✅ **Scale:** Managed 10B+ OpenAI tokens in production
+                                                  ✅ **Security:** Led ISO 27001 certification for enterprise AI platform
+                                                  ✅ **Innovation:** Pioneered LLM-based recruitment automation at scale
+                                                  ✅ **Recognition:** Google Cloud case study featuring Hunty's AI transformation
+                                                  ✅ **Leadership:** Scaled engineering team from 3 to 15+ members
+                                                  ✅ **Impact:** Accelerated hiring process for major LATAM enterprises
+
+                                                  ---
+
+                                                  ## 📚 Teaching & Mentorship
+
+                                                  - **Academic Channel**: [YouTube](https://www.youtube.com/@franciscocamacho1990) - Educational content for students
+                                                  - - **Platzi Recognition**: Exceeded 2+ historical learning milestones on Latin America's leading EdTech platform
+                                                    - - **Mentorship**: Passionate about helping emerging talent develop competitive technical skills in LATAM
+                                                     
+                                                      - ---
+
+                                                      ## 📬 Let's Connect
+
+                                                      - 🔗 [LinkedIn](https://www.linkedin.com/in/francisco-camacho-29b0b942/) - Professional updates and insights
+                                                      - - 💻 [GitHub](https://github.com/pachocamacho1990) - Open source projects
+                                                        - - 📧 [Email](mailto:pachocamacho@gmail.com) - pachocamacho@gmail.com
+                                                          - - 🐦 [Twitter/X](https://x.com/el_pachocamacho) - @el_pachocamacho
+                                                           
+                                                            - ---
+
+                                                            ## 🎯 What I'm Currently Learning
+
+                                                            - Advanced threat modeling for AI systems
+                                                            - - Scalable business models for AI consulting
+                                                              - - Infrastructure for decentralized AI deployment
+                                                               
+                                                                - ---
+
+                                                                <div align="center">
+
+                                                                **"At the intersection of rigorous physics intuition and cutting-edge AI capabilities, we solve real problems that matter."**
+
+                                                                *Physics → AI Engineering → Impact*
+
+                                                                </div>
