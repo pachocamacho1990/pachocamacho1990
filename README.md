@@ -23,7 +23,8 @@ I thrive at the intersection of research, engineering, and product strategy—si
 
 - 🌱 Learning how to build impactful businesses with new technologies
 - 👯 Looking to collaborate on Theory and LLM developments
-- 💬 Working on Fundamental Quantum physics, Stochastic Electrodynamics, and QED focused on exploring how to harness quantum phenomena like the Cassimir effect to produce or transport energy at large scales.
+- 💬 Understanding how to acelerate with different types of AI models the advancements on Computacional fluid Dymamics, my all-time favorite.  
+- 💬 Working on Fundamental theoretical Quantum physics, Stochastic Electrodynamics, and QED focused on exploring how to harness quantum phenomena like the Cassimir effect to produce or transport energy at large scales.
 - 📫 How to reach me: [@el_pachocamacho](https://x.com/el_pachocamacho)
          
 ## 🔬 Research & Learning
