@@ -13,12 +13,6 @@ My work sits at a fascinating intersection: helping organizations build AI syste
 
 **Current:** Co-Founder at [Hunty](https://hunty.com) - Scaled platform from MVP to ISO 27001-certified enterprise solution
 
-## What Drives My Work
-
-My work spans vector embedding-based solutions, conversational AI, agent-based automation, and integrations with enterprise platforms. I'm passionate about designing secure, explainable, and production-ready AI systems that move beyond chat to take meaningful action on behalf of users.
-
-I thrive at the intersection of research, engineering, and product strategy—simplifying complexity and turning cutting-edge models into scalable solutions that have real impact in industry problems.
-
 ## 🔭 Current Focus
 
 - 🌱 Learning how to build impactful businesses with new technologies
