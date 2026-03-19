@@ -12,6 +12,7 @@ My journey began in the realm of computational astrophysics and fluid dynamics�
 My work sits at a fascinating intersection: helping organizations build AI systems that are not just powerful, but **secure, explainable, and production-ready**. I've seen too many impressive demos that fall apart in production—my focus is on building systems that actually work when they meet reality.
 
 **Previous:** Co-Founder at [Hunty](https://hunty.com) - Scaled platform from MVP to ISO 27001-certified enterprise solution
+
 **Current:** CTO at [Humanolab](https://humanolab.ai) 
 
 ## 🔭 Interests & Focus
