@@ -10,17 +10,12 @@ Astrophysicist, startup founder, and Anthropic community ambassador in Colombia,
 **Previous:** 
  - Co-Founder & CTO at [Hunty](https://hunty.com) - Scaled platform from MVP to ISO 27001-certified enterprise solution
  - CTO at [Humanolab](https://humanolab.ai) - Hands-on technical lead at an early stage startup. Personally built and shipped production code fast by leveraging AI tooling heavily across the stack, an AI-native development workflow that compressed delivery from weeks to days. 
+
 **Current:**
 
 - AI Builder School [website](https://www.builder-school.academy)
 - Building in Stealth something awesome, stay tuned .... 
 
-## 🔭 Interests & Focus
-
-- 🌱 Learning how to build impactful businesses with new technologies
-- 👯 Looking to collaborate on Theory and LLM developments
-- 💬 Understanding how to acelerate with different types of AI models the advancements on Computacional fluid Dymamics, my all-time favorite.  
-- 💬 Working on Fundamental theoretical Quantum physics, Stochastic Electrodynamics, and QED focused on exploring how to harness quantum phenomena like the Cassimir effect to produce or transport energy at large scales.
 - 📫 How to reach me: [@el_pachocamacho](https://x.com/el_pachocamacho)
          
 ## 🔬 Research & Learning
